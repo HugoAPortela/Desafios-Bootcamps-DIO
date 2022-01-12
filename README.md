@@ -838,6 +838,3 @@ git push origin feature/feature
 5. Abra um Pull Request. // Open a Pull Request.
 6. Deixe o Follow e a Star! // Leave Follow and Star!
 
-##
-<!--Bottom session-->
-<h4 align=center>Made with by <a href="https://pleiterson.vercel.app">Pleiterson Amorim</a></h4>
